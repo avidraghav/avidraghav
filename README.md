@@ -1,22 +1,14 @@
-Account age: 2 years
+Joined Github **2** years ago.
 
-Pushed 288 commits
+Since then I pushed **289** commits, opened **10** issues, submitted **16** pull requests, received **6** stars across **21** personal projects and contributed to **13** public repositories.
 
-Opened 10 issues
+Most used languages across my projects:
 
-Submitted 16 pull requests
+![Java](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23b07219&message=Java%EF%B8%B173.8%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B18.7%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B16.2%25)
+![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B15.3%25)
+![Kotlin](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23F18E33&message=Kotlin%EF%B8%B14.9%25)
+![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23c6538c&message=SCSS%EF%B8%B10.8%25)
 
-Reviewed 0 pull requests
-
-Received 6 stars
-
-Own 21 repositories
-
-Contributed to 13 public repositories
-
-Top 8 most used languages across your repositories:
-
- Java  HTML  CSS  JavaScript  Kotlin  SCSS 
-Top 4 most used languages across your repositories:
-
- Java  HTML  CSS  Other 
+<p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
