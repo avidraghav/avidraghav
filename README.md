@@ -2,7 +2,7 @@ Joined Github **3** years ago.
 
 Since then I pushed **755** commits, opened **32** issues, submitted **124** pull requests, received **96** stars across **41** personal projects and contributed to **4** public repositories.
 
-## 🧑‍💻 Blogs on Technologies:
+## 🧑‍💻 Blogs on Tech:
 
 - [Monitoring Network Bandwidth Usage in the Doubtnut app.](https://medium.com/doubtnut/monitoring-network-bandwidth-usage-in-the-doubtnut-app-40d4aba0cf7d)
 - [Code Compilation Process in Android.](https://avidraghav.hashnode.dev/code-compilation-process-in-android)
