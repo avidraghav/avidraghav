@@ -1,6 +1,6 @@
 Joined Github **4** years ago.
 
-Since then I pushed **680** commits, opened **43** issues, submitted **64** pull requests, received **147** stars across **57** personal projects and contributed to **5** public repositories.
+Since then I pushed **681** commits, opened **43** issues, submitted **64** pull requests, received **147** stars across **57** personal projects and contributed to **5** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
@@ -29,7 +29,7 @@ Since then I pushed **680** commits, opened **43** issues, submitted **64** pull
 [![Resume](https://img.shields.io/badge/-Resume-black?style=for-the-badge&logo=Android&logoColor=white)](https://drive.google.com/file/d/17mgNT9z1m7sx4Rg5cV-i_RhlO0QRiGhN/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avidraghav/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avidRaghav)
-[![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://avidraghav.netlify.app/)
+<!-- [![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://avidraghav.netlify.app/) -->
 
 
 
