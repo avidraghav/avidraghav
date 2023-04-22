@@ -1,9 +1,10 @@
 Joined Github **4** years ago.
 
-Since then I pushed **679** commits, opened **41** issues, submitted **63** pull requests, received **147** stars across **57** personal projects and contributed to **5** public repositories.
+Since then I pushed **680** commits, opened **43** issues, submitted **64** pull requests, received **147** stars across **57** personal projects and contributed to **5** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
+- [Testing WorkManager Worker classes which use Assisted Dependency Injection](https://medium.com/@raghavaggarwal776/testing-workmanager-worker-classes-which-use-assisted-dependency-injection-5862d59f0494)
 - [Monitoring Network Bandwidth Usage in the Doubtnut app.](https://medium.com/doubtnut/monitoring-network-bandwidth-usage-in-the-doubtnut-app-40d4aba0cf7d)
 - [Code Compilation Process in Android.](https://avidraghav.hashnode.dev/code-compilation-process-in-android)
 - [Testing Strategy and it's Theory in Android](https://avidraghav.hashnode.dev/testing-strategy-and-its-theory-in-android-1)
