@@ -4,6 +4,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 ## 🧑‍💻 Blogs on Technologies:
 
+- [Simplifying AlarmManager: Understanding Alarm Scheduling in Android](https://avidraghav.hashnode.dev/simplifying-alarmmanager-understanding-alarm-scheduling-in-android)
 - [Testing WorkManager Worker classes which use Assisted Dependency Injection](https://medium.com/@raghavaggarwal776/testing-workmanager-worker-classes-which-use-assisted-dependency-injection-5862d59f0494)
 - [Monitoring Network Bandwidth Usage in the Doubtnut app.](https://medium.com/doubtnut/monitoring-network-bandwidth-usage-in-the-doubtnut-app-40d4aba0cf7d)
 - [Code Compilation Process in Android.](https://avidraghav.hashnode.dev/code-compilation-process-in-android)
