@@ -1,6 +1,6 @@
 Joined Github **4** years ago.
 
-Since then I pushed **889** commits, opened **52** issues, submitted **91** pull requests, received **357** stars across **64** personal projects and contributed to **4** public repositories.
+Since then I pushed **893** commits, opened **52** issues, submitted **91** pull requests, received **357** stars across **64** personal projects and contributed to **4** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
@@ -23,7 +23,7 @@ Since then I pushed **889** commits, opened **52** issues, submitted **91** pull
 ## 📱 Apps On Playstore
 
 - [Qsol](https://play.google.com/store/apps/details?id=com.application.kurukshetrauniversitypapers)  👩‍🎓:man_student:
-- [Space Dawn](https://play.google.com/store/apps/details?id=com.raghav.spacedawn)  🚀
+- [Space Dawn](https://play.google.com/store/apps/details?id=com.raghav.spacedawnv2)  🚀
 
 ## 🔗 Connect with Me!
 
