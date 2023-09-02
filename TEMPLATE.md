@@ -23,7 +23,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 ## 📱 Apps On Playstore
 
 - [Qsol](https://play.google.com/store/apps/details?id=com.application.kurukshetrauniversitypapers)  👩‍🎓:man_student:
-- [Space Dawn](https://play.google.com/store/apps/details?id=com.raghav.spacedawn)  🚀
+- [Space Dawn](https://play.google.com/store/apps/details?id=com.raghav.spacedawnv2)  🚀
 
 ## 🔗 Connect with Me!
 
