@@ -16,8 +16,8 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 ## 🎭 I Write about Life too:
 
-- [Life in Binaries]([http://rv01thoughts.blogspot.com/2020/04/binary-life-doesnt-exist.html](https://avidraghav.dev/everydaylens/binary_life/))
-- [The Pole and the Knot]([http://rv01thoughts.blogspot.com/2020/02/the-pole-and-knot.html](https://avidraghav.dev/everydaylens/pole_knot/))
+- [Life in Binaries](https://avidraghav.dev/everydaylens/binary_life/)
+- [The Pole and the Knot](https://avidraghav.dev/everydaylens/pole_knot/)
 - [Consequences of decoding God with logic](https://avidraghav.dev/everydaylens/decoding_god_with_logic/)
 - [For more click here](https://avidraghav.dev/everydaylens/)
 
