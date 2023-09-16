@@ -1,6 +1,6 @@
 Joined Github **4** years ago.
 
-Since then I pushed **897** commits, opened **52** issues, submitted **92** pull requests, received **362** stars across **64** personal projects and contributed to **4** public repositories.
+Since then I pushed **898** commits, opened **52** issues, submitted **92** pull requests, received **362** stars across **64** personal projects and contributed to **4** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
@@ -16,10 +16,10 @@ Since then I pushed **897** commits, opened **52** issues, submitted **92** pull
 
 ## 🎭 I Write about Life too:
 
-- [Binary life]([http://rv01thoughts.blogspot.com/2020/04/binary-life-doesnt-exist.html](https://avidraghav.dev/everydaylens/binary_life/))
-- [The Pole and the Knot]([http://rv01thoughts.blogspot.com/2020/02/the-pole-and-knot.html](https://avidraghav.dev/everydaylens/pole_knot/))
-- [Consequences of decoding God with logic]([http://rv01thoughts.blogspot.com/2019/03/consequences-of-decoding-god-with-logic.html](https://avidraghav.dev/everydaylens/decoding_god_with_logic/))
-- [For more click here]([http://rv01thoughts.blogspot.com/](https://avidraghav.dev/everydaylens/))
+- [Binary life](http://rv01thoughts.blogspot.com/2020/04/binary-life-doesnt-exist.html)
+- [The Pole and the Knot](http://rv01thoughts.blogspot.com/2020/02/the-pole-and-knot.html)
+- [Consequences of decoding God with logic](http://rv01thoughts.blogspot.com/2019/03/consequences-of-decoding-god-with-logic.html)
+- [For more click here](http://rv01thoughts.blogspot.com/)
 
 ## 📱 Apps On Playstore
 
