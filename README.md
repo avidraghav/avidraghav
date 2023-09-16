@@ -1,6 +1,6 @@
 Joined Github **4** years ago.
 
-Since then I pushed **899** commits, opened **52** issues, submitted **92** pull requests, received **362** stars across **64** personal projects and contributed to **4** public repositories.
+Since then I pushed **900** commits, opened **52** issues, submitted **92** pull requests, received **362** stars across **64** personal projects and contributed to **4** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
@@ -16,8 +16,8 @@ Since then I pushed **899** commits, opened **52** issues, submitted **92** pull
 
 ## 🎭 I Write about Life too:
 
-- [Life in Binaries]([http://rv01thoughts.blogspot.com/2020/04/binary-life-doesnt-exist.html](https://avidraghav.dev/everydaylens/binary_life/))
-- [The Pole and the Knot]([http://rv01thoughts.blogspot.com/2020/02/the-pole-and-knot.html](https://avidraghav.dev/everydaylens/pole_knot/))
+- [Life in Binaries](https://avidraghav.dev/everydaylens/binary_life/)
+- [The Pole and the Knot](https://avidraghav.dev/everydaylens/pole_knot/)
 - [Consequences of decoding God with logic](https://avidraghav.dev/everydaylens/decoding_god_with_logic/)
 - [For more click here](https://avidraghav.dev/everydaylens/)
 
