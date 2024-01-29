@@ -1,11 +1,11 @@
 Joined Github **4** years ago.
 
-Since then I pushed **1198** commits, opened **54** issues, submitted **98** pull requests, received **383** stars across **68** personal projects and contributed to **4** public repositories.
+Since then I pushed **1199** commits, opened **54** issues, submitted **98** pull requests, received **383** stars across **68** personal projects and contributed to **4** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
-- [Android Permissions Unveiled: A Developer’s Insight (Published on ProAndroidDev))](https://proandroiddev.com/android-permissions-unveiled-a-developers-insight-131c829c150b)
-- [Creating the Creational Design Patterns in Kotlin (Published on ProAndroidDev))](https://proandroiddev.com/creating-the-creational-design-patterns-in-kotlin-319d08fdf9b6)
+- [Android Permissions Unveiled: A Developer’s Insight (Published on ProAndroidDev)](https://proandroiddev.com/android-permissions-unveiled-a-developers-insight-131c829c150b)
+- [Creating the Creational Design Patterns in Kotlin (Published on ProAndroidDev)](https://proandroiddev.com/creating-the-creational-design-patterns-in-kotlin-319d08fdf9b6)
 - [Simplifying AlarmManager: Understanding Alarm Scheduling in Android](https://avidraghav.hashnode.dev/simplifying-alarmmanager-understanding-alarm-scheduling-in-android)
 - [Testing WorkManager Worker classes which use Assisted Dependency Injection](https://medium.com/@raghavaggarwal776/testing-workmanager-worker-classes-which-use-assisted-dependency-injection-5862d59f0494)
 - [Monitoring Network Bandwidth Usage in the Doubtnut app.](https://medium.com/doubtnut/monitoring-network-bandwidth-usage-in-the-doubtnut-app-40d4aba0cf7d)
