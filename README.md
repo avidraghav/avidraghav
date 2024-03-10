@@ -1,6 +1,6 @@
 Joined Github **4** years ago.
 
-Since then I pushed **1223** commits, opened **54** issues, submitted **98** pull requests, received **386** stars across **68** personal projects and contributed to **2** public repositories.
+Since then I pushed **1226** commits, opened **54** issues, submitted **98** pull requests, received **386** stars across **68** personal projects and contributed to **2** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
@@ -17,7 +17,7 @@ Since then I pushed **1223** commits, opened **54** issues, submitted **98** pul
 
 ## 🎭 I Write about Life too:
 
-- [Life in Binaries](https://avidraghav.dev/everydaylens/binary_life/)
+- [Solo Symphony: Echoes from Haridwar to Rishikesh]([https://avidraghav.dev/everydaylens/binary_life/](https://avidraghav.dev/everydaylens/solo-symphony-echoes-from-haridwar-to-rishikesh/))
 - [The Pole and the Knot](https://avidraghav.dev/everydaylens/pole_knot/)
 - [Consequences of decoding God with logic](https://avidraghav.dev/everydaylens/decoding_god_with_logic/)
 - [For more click here](https://avidraghav.dev/everydaylens/)
