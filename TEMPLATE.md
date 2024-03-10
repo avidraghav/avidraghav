@@ -17,7 +17,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 ## 🎭 I Write about Life too:
 
-- [Life in Binaries](https://avidraghav.dev/everydaylens/binary_life/)
+- [Solo Symphony: Echoes from Haridwar to Rishikesh]([https://avidraghav.dev/everydaylens/binary_life/](https://avidraghav.dev/everydaylens/solo-symphony-echoes-from-haridwar-to-rishikesh/))
 - [The Pole and the Knot](https://avidraghav.dev/everydaylens/pole_knot/)
 - [Consequences of decoding God with logic](https://avidraghav.dev/everydaylens/decoding_god_with_logic/)
 - [For more click here](https://avidraghav.dev/everydaylens/)
