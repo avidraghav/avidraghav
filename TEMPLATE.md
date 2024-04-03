@@ -29,7 +29,7 @@ Since then I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, s
 
 ## 🔗 Connect with Me!
 
-[![Resume](https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=Android&logoColor=purple)](https://drive.google.com/file/d/1uDV1lX2vuV4hPtruGY1gozvnqS25VkqH/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-white?style=for-the-badge&logo=Android&logoColor=purple)](https://drive.google.com/file/d/1_0IJw0vHGImjyCgYMDvY_M27ECAZg2R7/view?usp=sharing)
 [![Website](https://img.shields.io/badge/-Website-green?style=for-the-badge&logo=googlechrome&logoColor=white)](https://avidraghav.dev/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avidraghav/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avidRaghav)
