@@ -1,6 +1,6 @@
 Joined Github **5** years ago.
 
-Since then I pushed **1245** commits, opened **55** issues, submitted **99** pull requests, received **386** stars across **72** personal projects and contributed to **1** public repositories.
+Since then I pushed **1245** commits, opened **55** issues, submitted **99** pull requests, received **388** stars across **72** personal projects and contributed to **1** public repositories.
 
 ## 🧑‍💻 Blogs on Technologies:
 
